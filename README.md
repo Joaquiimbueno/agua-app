@@ -86,6 +86,6 @@ consumo-agua/
 
 ## 👩‍💻 Autor
 
-Desenvolvido por **SEU NOME** como atividade da Agenda 7 – Desenvolvimento de Sistemas.
+Desenvolvido por **Joaquim Bueno** como atividade da Agenda 7 – Desenvolvimento de Sistemas.
 
 <div align="center">💙 Cada gota conta! Use a água com consciência. 💙</div>
